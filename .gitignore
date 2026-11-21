@@ -1,0 +1,50 @@
+node_modules
+
+# SQLite databases (generated at runtime, not committed)
+*.db
+*.sqlite
+*.sqlite3
+frq
+
+.dart_tool
+.idea
+build
+macos
+.flutter-plugins-dependencies
+allo_carto.iml
+canon/
+canon.md
+agents.md
+
+.expo/
+app-example
+expo-env.d.ts
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+*.pem
+canon.md
+canon/
+stories/
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+app-example
+
+# generated native folders
+/ios
+/android
+
+# Example react native app
+/app-example
+plans.md
+uat-pr.md
+leo-and-poe-public/
