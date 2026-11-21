@@ -1,6 +1,6 @@
 # Contributions
 
-Allô Carto is a personal, proprietary project. Outside contributions and pull requests are not accepted.
+Léo and Poe is a personal, proprietary project. Outside contributions and pull requests are not accepted.
 
 This repository is public because its owner has chosen to make it visible. Public visibility is not an invitation to collaborate, submit changes, or reuse the original application, code, writing, illustrations, graphics, or other assets.
 

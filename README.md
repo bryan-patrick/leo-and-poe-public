@@ -1,12 +1,12 @@
-# Allô Carto
+# Léo and Poe
 
 ![App preview](preview.jpg)
 
-Hello! Allô Carto is a story drive mobile flashcard app I've been building focused around progressing users through stories one paragraph at a time using flashcards and solving puzzles to learn Quebec French.
+Hello! Léo and Poe is a story drive mobile flashcard app I've been building focused around progressing users through stories one paragraph at a time using flashcards and solving puzzles to learn Quebec French.
 
 ## Ownership and permissions
 
-Allô Carto is a personal, proprietary project by Bryan Patrick. All rights reserved for original project materials owned by Bryan Patrick, except where a separate license applies. Public visibility does not make these materials open source or public domain, and no public license is granted to use or reuse them. See [LICENSE](LICENSE) for the full notice and its exceptions.
+Léo and Poe is a personal, proprietary project by Bryan Patrick. All rights reserved for original project materials owned by Bryan Patrick, except where a separate license applies. Public visibility does not make these materials open source or public domain, and no public license is granted to use or reuse them. See [LICENSE](LICENSE) for the full notice and its exceptions.
 
 Third-party materials and adaptations covered by their licenses retain those licenses, including the [dictionary-derived pronunciation data](data/french/pronunciations/README.md). The proprietary notice does not override those licenses, applicable law, GitHub's terms, or separate written agreements.
 
